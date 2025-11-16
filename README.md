@@ -47,8 +47,21 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+<img width="1055" height="525" alt="image" src="https://github.com/user-attachments/assets/6f684c58-4b19-4b2d-bbbd-65b2c7f1672c" />
+
+<img width="1070" height="525" alt="image" src="https://github.com/user-attachments/assets/995ce103-449a-470e-a69d-3c99dd618557" />
+
+
+<img width="1060" height="519" alt="image" src="https://github.com/user-attachments/assets/3e3155e5-8b4d-4685-92fa-cb4bbfdc38d6" />
+
+
+
+
+
+
+### Name : CHITTOOR SARAVANA MRUDHULA
+
+### Register Number : 212224040056
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
